@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T2A70sVPlEY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kanat\\Downloads\\Block Models (1)\\VoxelGeometryConverter\\VoxelGeometryConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanat\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.13\\microsoft.net.illink.tasks.10.0.13.nupkg.sha512",
+    "C:\\Users\\kanat\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.13\\microsoft.netcore.app.runtime.win-x64.10.0.13.nupkg.sha512",
+    "C:\\Users\\kanat\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.13.nupkg.sha512",
+    "C:\\Users\\kanat\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.13\\microsoft.aspnetcore.app.runtime.win-x64.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

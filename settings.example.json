@@ -1,0 +1,12 @@
+{
+  "inputGeometry": "../RP/models/blocks/paper_bag.geo.json",
+  "inputTexture": "../RP/textures/wiki/blocks/paper_bag.png",
+  "outputGeometry": "../RP/models/blocks/paper_bag_voxel.geo.json",
+  "outputTexture": "../RP/textures/wiki/blocks/paper_bag_voxels.png",
+  "sourceGeometryId": "geometry.paper_bag",
+  "outputGeometryId": "geometry.paper_bag_voxel",
+  "textureShortName": "paper_bag_voxels",
+  "quality": "high",
+  "atlasSize": 1024,
+  "tileSize": 4
+}
